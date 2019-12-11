@@ -1,0 +1,47 @@
+.img1{
+	-fx-background-image: url("1.jpg");
+}
+
+.img2{
+	-fx-background-image: url("2.jpg");
+}
+
+.img3{
+	-fx-background-image: url("3.jpg");
+}
+
+.img4{
+	-fx-background-image: url("4.jpg");
+}
+
+.botonA1{
+	-fx-background-color: #FFFF00;
+}
+
+.botonA2{
+	-fx-background-color: #FFFF00;
+}
+
+.botonA2:hover{
+	-fx-background-image: url("javi.png");
+}
+
+.botonA3{
+	-fx-background-color: #FFFF00;
+}
+
+.botonA3:hover{
+	-fx-background-image: url("jaime.png");
+}
+
+
+.botonA1:hover{
+	-fx-background-image: url("jose.png");
+}
+
+.botonR{
+	-fx-background-color: #FF0000;
+}
+.botonR:hover{
+	-fx-background-color: #800080;
+}
